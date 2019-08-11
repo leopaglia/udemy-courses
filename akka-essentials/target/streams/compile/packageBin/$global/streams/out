@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/leonardo/development/udemy/akka-essentials/target/scala-2.12/akka-essentials_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	playground[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/development/udemy/akka-essentials/target/scala-2.12/classes/playground[0m
+[0m[[0m[0mdebug[0m] [0m[0m	playground/Playground$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/development/udemy/akka-essentials/target/scala-2.12/classes/playground/Playground$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	playground/Playground.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/development/udemy/akka-essentials/target/scala-2.12/classes/playground/Playground.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	playground/Playground$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/leonardo/development/udemy/akka-essentials/target/scala-2.12/classes/playground/Playground$delayedInit$body.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
